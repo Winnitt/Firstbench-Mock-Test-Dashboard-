@@ -2,7 +2,7 @@
 
 This project represents a responsive and interactive user interface (UI) designed for the Firstbench Mock Test Dashboard. The dashboard offers a user-friendly way to view mock test results, track progress, and analyze performance metrics.
 
-#Features
+# Features
 
 Responsive Design: The UI is designed to work seamlessly across devices (mobile, tablet, desktop).
 
@@ -16,7 +16,7 @@ Accessible Options: Buttons for revisiting the paper, downloading reports, and p
 
 Modern Fonts and Styling: Utilizes "Inter" and "Roboto" fonts along with TailwindCSS and Bootstrap for modern aesthetics.
 
-#Technologies Used
+# Technologies Used
 
 HTML5: For structuring the content.
 
@@ -26,7 +26,7 @@ Chart.js: For rendering dynamic and interactive charts.
 
 Font Awesome: For scalable icons and visual enhancements.
 
-#How to Access the UI
+# How to Access the UI
 
 Click this link.
 
@@ -34,9 +34,9 @@ Select the ui.html file.
 
 The Firstbench Mock Test Dashboard will be presented.
 
-#Components Overview
+# Components Overview
 
-Header
+# Header
 
 Displays navigation links (Dashboard, FirstGuru, TownHall, AI Evaluation, Performance, Mock Test).
 
@@ -64,6 +64,6 @@ Progress Tracker: Displays completion percentage.
 
 Time Taken Scale: Represents time distribution visually.
 
-#Footer
+# Footer
 
 Simple footer indicating ownership and rights.
